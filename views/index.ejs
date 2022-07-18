@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Top...</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lemon&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<section class="header">
+  <header id="headerTitle">
+    <h1>Top...</h1>
+  </header>
+</section>
+
+<section class="firstBlock">
+  <section id="inputs">
+    <form action='/top' method='POST'>
+      <input class="userInput" type='text' placeholder='Best/Worst' name='category'>
+      <input class="userInput" type='text' placeholder='Item' name='item'>
+      <input class="userInput" type='text' placeholder='Answer' name='answer'>
+      <button id="submitButton" type='submit'>Submit</button>
+    </form>
+  </section>
+</section>
+
+<section class="listBoard">
+  <ul class="ulTop">
+  <% for(let i=0; i < info.length; i++) {%>
+      <section class="listItems">
+        <li class="liTop">
+            <span id="category"><%= info[i].category %></span>
+            <span id="item"><%= info[i].item %></span>
+            <span id="answer"><%= info[i].answer %></span>
+            <span id="plusCounter"><%= info[i].likes %></span>
+            <span id="minusCounter"><%= info[i].dislikes %></span>
+            <span class='fa fa-thumbs-up'></span>
+            <span class='fa fa-thumbs-down'></span>
+            <span class='fa fa-trash'></span>
+          </li>
+      </section>
+  <% } %>
+  </ul>
+</section>
+
+  <script src='js/main.js'></script>
+
+</body>
+
+</html>
