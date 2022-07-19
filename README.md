@@ -2,36 +2,36 @@
 
 I. INTRO:
 
-Headtop API url: http://headtop-api.herokuapp.com/
+  1. Headtop API url: http://headtop-api.herokuapp.com/
 
-This is a CRUD App, set up as an API, that allows a User to:
+  2. This is a CRUD App, set up as an API, that allows a User to:
 
-a. Create a List.
+     a. Create a List.
 
-b. Vote on importance of Items in the List, with Sort set to display Most Important first.
+     b. Vote on importance of Items in the List, with Sort set to display Most Important first.
 
-c. Vote on Dislike of Items in the List, Dislikes do not affect Sort.
+     c. Vote on Dislike of Items in the List, Dislikes do not affect Sort.
 
 II. NOTES:
 
-1. Built with EJS/JS/CRUD Methods.
+  1. Built with EJS/JS/CRUD Methods.
 
 III. OPTIMIZATION:
 
-1. Add a Form so Players can create User and PW Credentials.
+  1. Add a Form so Players can create User and PW Credentials.
 
-2. Add Functionality to Save Lists if User is signed in.
+  2. Add Functionality to Save Lists if User is signed in.
 
 IV. FURTHER INFO:
 
-1. Readme last updated on: JULY 2022
+  1. Readme last updated on: JULY 2022
 
-2. Authors:
+  2. Authors:
 
-a. pnkskff
+     a. pnkskff
 
-https://github.com/pnkskff
+     https://github.com/pnkskff
 
-https://drincapdev.netlify.app/
+     https://drincapdev.netlify.app/
 
-https://drincapapps.netlify.app/
+     https://drincapapps.netlify.app/
