@@ -3,6 +3,8 @@
 I. INTRO:
 
   1. Headtop API url: http://headtop-api.herokuapp.com/
+  
+     a. API is hosted at: https://www.heroku.com/
 
   2. This is a CRUD App, set up as an API, that allows a User to:
 
