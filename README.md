@@ -25,6 +25,8 @@ III. OPTIMIZATION:
   2. Add Functionality to Save Lists if User is signed in.
   
   3. Add Functionality for User to upload Images.
+  
+  4. Add Functionality for User to add Notes per Post via free-form Text Box.
 
 IV. FURTHER INFO:
 
