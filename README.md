@@ -16,7 +16,7 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with EJS/JS/CRUD Methods.
+  1. Built with CSS/EJS/JS/CRUD Methods.
 
 III. OPTIMIZATION:
 
