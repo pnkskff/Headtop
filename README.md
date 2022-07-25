@@ -27,6 +27,8 @@ III. OPTIMIZATION:
   3. Add Functionality for User to upload Images.
   
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
+  
+  5. Add Functionality for User to view all Saved Lists, in a Gallery Format.
 
 IV. FURTHER INFO:
 
