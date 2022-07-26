@@ -29,6 +29,8 @@ III. OPTIMIZATION:
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
   5. Add Functionality for User to view all Saved Lists, in a Gallery Format.
+  
+  6. Add Functionality for User to Tag a List via a Keyword, so that User can quickly search all Lists via a Keyword Query.
 
 IV. FURTHER INFO:
 
