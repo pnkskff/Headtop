@@ -10,7 +10,7 @@ I. INTRO:
 
      a. Create a List.
 
-     b. Vote on importance of Items in the List, with Sort set to display Most Important first.
+     b. Vote on importance of Items in the List, with Sort set to display Most Important/Liked first.
 
      c. Vote on Dislike of Items in the List, Dislikes do not affect Sort.
 
