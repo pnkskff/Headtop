@@ -12,7 +12,7 @@ I. INTRO:
 
      b. Vote on importance of Items in the List, with Sort set to display Most Important/Liked first.
 
-     c. Vote on Dislike of Items in the List, Dislikes do not affect Sort.
+     c. Vote on Dislike of Items in the List, Dislikes do not affect Sort - Dislikes were added for fun.
 
 II. NOTES:
 
