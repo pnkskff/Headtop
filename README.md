@@ -31,6 +31,8 @@ III. OPTIMIZATION:
   5. Add Functionality for User to view all Saved Lists, in a Gallery Format.
   
   6. Add Functionality for User to Tag a List via a Keyword, so that User can quickly search all Lists via a Keyword Query.
+  
+  7. Add Functionality for User to generate a shareable url for a List.
 
 IV. FURTHER INFO:
 
