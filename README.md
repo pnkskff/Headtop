@@ -21,6 +21,8 @@ II. NOTES:
 III. OPTIMIZATION:
 
   1. Add a Form so Users can create User and PW Credentials.
+  
+  - Most likely using: https://www.passportjs.org/
 
   2. Add Functionality to Save Lists if User is signed in.
   
