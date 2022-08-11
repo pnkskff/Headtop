@@ -22,15 +22,17 @@ III. OPTIMIZATION:
 
   1. Add a Form so Users can create User and PW Credentials.
   
-  - Most likely using: https://www.passportjs.org/
+  - Most likely using PassportJS: https://www.passportjs.org/
 
   2. Add Functionality to Save Lists if User is signed in.
   
   3. Add Functionality for User to upload Images.
   
+  - Most likely using Filepond: https://pqina.nl/filepond/
+  
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
-  - Most likely using: https://ckeditor.com/
+  - Most likely using CKEditor: https://ckeditor.com/
   
   5. Add Functionality for User to view all Saved Lists, in a Gallery Format.
   
