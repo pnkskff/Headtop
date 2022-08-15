@@ -52,7 +52,7 @@ III. OPTIMIZATION:
 
 IV. FURTHER INFO:
 
-  1. Readme last updated on: JULY 2022
+  1. Readme last updated on: AUGUST 2022
 
   2. Authors:
 
