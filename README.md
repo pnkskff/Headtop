@@ -49,6 +49,10 @@ III. OPTIMIZATION:
   8. Add Functionality for User to generate a shareable url for a List.
   
   - Most likely using NPM of Share URL: https://www.npmjs.com/package/share-url
+  
+  9. Add Functionality to Export a List into a CSV file.
+  
+  - Most likely using NPM export-to-csv: https://www.npmjs.com/package/export-to-csv
 
 IV. FURTHER INFO:
 
