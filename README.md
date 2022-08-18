@@ -53,6 +53,14 @@ III. OPTIMIZATION:
   9. Add Functionality to Export a List into a CSV file.
   
   - Most likely using NPM export-to-csv: https://www.npmjs.com/package/export-to-csv
+  
+  10. Add Integration with Google Drive.
+  
+  - Most likely using NPM @googleapis/drive: https://www.npmjs.com/package/@googleapis/drive
+  
+  - Git Repo: https://github.com/googleapis/google-api-nodejs-client
+  
+  - Documentation: https://googleapis.dev/nodejs/googleapis/latest/drive/classes/Drive.html
 
 IV. FURTHER INFO:
 
