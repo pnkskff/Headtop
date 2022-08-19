@@ -16,7 +16,7 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with CSS/EJS/JS/CRUD Methods.
+  1. Built with CSS/EJS/JS, and CRUD Methods - M.V.C. Paradigm is not used for this App yet.
 
 III. OPTIMIZATION:
 
