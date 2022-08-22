@@ -6,7 +6,7 @@ I. INTRO:
   
      a. API is hosted at: https://www.heroku.com/
 
-  2. This is a CRUD App, set up as an API, that allows a User to:
+  2. This is a CRUD App that at its most basic, allows a User to:
 
      a. Create a List.
 
@@ -16,7 +16,9 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with CSS/EJS/JS, and CRUD Methods - M.V.C. Paradigm is not used for this App yet.
+  1. Built with CSS/EJS/JS.
+  
+  2. M.V.C. Paradigm is not used for this App yet.
 
 III. OPTIMIZATION:
 
