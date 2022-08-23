@@ -18,7 +18,7 @@ II. NOTES:
 
   1. Built with CSS/EJS/JS.
   
-  2. M.V.C. Paradigm is not used for this App yet.
+  2. M.V.C. architecture is not used for this App yet.
 
 III. OPTIMIZATION:
 
