@@ -16,7 +16,7 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with CSS/EJS/JS.
+  1. Built with EJS/CSS/JS.
   
   2. M.V.C. architecture is not used for this App yet.
 
@@ -27,24 +27,24 @@ III. OPTIMIZATION:
   - Most likely using PassportJS: https://www.passportjs.org/
   
   - Add Gmail Integration.
-
-  2. Add Functionality to Save Lists if User is signed in.
   
-  3. Add Functionality to include Date of Purchase and/or Date Uploaded via Calendar Dropdown.
+  2. Add Functionality to include Date of Purchase and/or Date Uploaded via Calendar Dropdown.
   
   - Most likely using v-calendar: https://www.npmjs.com/package/v-calendar
   
   - Documentation: https://vcalendar.io/
   
-  4. Add Functionality for User to upload Images.
+  3. Add Functionality for User to upload Images.
   
   - Most likely using Filepond: https://pqina.nl/filepond/
   
-  5. Add Functionality for User to add Notes per Post via free-form Text Box.
+  4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
   - Most likely using CKEditor: https://ckeditor.com/
   
-  6. Add Functionality for User to view all Saved Lists, in a Gallery Format.
+  5. Add Functionality to Save Lists if User is signed in.
+  
+  6. Add Functionality for User to view all Saved Lists, in a Gallery or List Format.
   
   7. Add Functionality for User to Tag a List via a Keyword, so that User can quickly search all Lists via a Keyword Query.
   
@@ -52,11 +52,15 @@ III. OPTIMIZATION:
   
   - Most likely using NPM of Share URL: https://www.npmjs.com/package/share-url
   
-  9. Add Functionality to Export a List into a CSV file.
+  9. Add Functionality for Comments, so that Users can add Comments to each List, via free-form Text Box.
+  
+  - Most likely using CKEditor: https://ckeditor.com/
+  
+  10. Add Functionality to Export a List into a CSV file.
   
   - Most likely using NPM export-to-csv: https://www.npmjs.com/package/export-to-csv
   
-  10. Add Integration with Google Drive.
+  11. Add Integration with Google Drive.
   
   - Most likely using NPM @googleapis/drive: https://www.npmjs.com/package/@googleapis/drive
   
