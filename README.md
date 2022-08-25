@@ -19,6 +19,8 @@ II. NOTES:
   1. Built with EJS/CSS/JS.
   
   2. M.V.C. architecture is not used for this App yet.
+  
+  - //Plug in MVC Lecture url here//
 
 III. OPTIMIZATION:
 
