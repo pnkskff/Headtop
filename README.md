@@ -20,7 +20,7 @@ II. NOTES:
   
   2. M.V.C. architecture is not used for this App yet.
   
-  - //Plug in MVC Lecture url here//
+  - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
 
 III. OPTIMIZATION:
 
