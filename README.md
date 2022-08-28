@@ -5,6 +5,16 @@ I. INTRO:
   1. Headtop API url: http://headtop-api.herokuapp.com/
   
      a. API is hosted at: https://www.heroku.com/
+     
+     - Heroku is sunsetting Free Accounts on Nov. 2022.
+     
+     - Need to host App on a different Server: 
+     
+     * Firebase: https://firebase.google.com/
+     
+     * Netlify: https://www.netlify.com/
+     
+     * Vercel: https://vercel.com/
 
   2. This is a CRUD App that at its most basic, allows a User to:
 
