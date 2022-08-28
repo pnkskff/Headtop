@@ -6,15 +6,15 @@ I. INTRO:
   
      a. API is hosted at: https://www.heroku.com/
      
-     - Heroku is sunsetting Free Accounts on Nov. 2022.
+        - Heroku is sunsetting Free Accounts on Nov. 2022.
      
-     - Need to host App on a different Server: 
+        - Need to host App on a different Server: 
      
-     * Firebase: https://firebase.google.com/
+          * Firebase: https://firebase.google.com/
      
-     * Netlify: https://www.netlify.com/
+          * Netlify: https://www.netlify.com/
      
-     * Vercel: https://vercel.com/
+          * Vercel: https://vercel.com/
 
   2. This is a CRUD App that at its most basic, allows a User to:
 
@@ -30,29 +30,29 @@ II. NOTES:
   
   2. M.V.C. architecture is not used for this App yet.
   
-  - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
+     - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
 
 III. OPTIMIZATION:
 
   1. Add a Form/Authentication Method so Users can create User and PW Credentials.
   
-  - Most likely using PassportJS: https://www.passportjs.org/
+     - Most likely using PassportJS: https://www.passportjs.org/
   
-  - Add Gmail Integration.
+     - Add Gmail Integration.
   
   2. Add Functionality to include Date of Purchase and/or Date Uploaded via Calendar Dropdown.
   
-  - Most likely using v-calendar: https://www.npmjs.com/package/v-calendar
+     - Most likely using v-calendar: https://www.npmjs.com/package/v-calendar
   
-  - Documentation: https://vcalendar.io/
+     - Documentation: https://vcalendar.io/
   
   3. Add Functionality for User to upload Images.
   
-  - Most likely using Filepond: https://pqina.nl/filepond/
+     - Most likely using Filepond: https://pqina.nl/filepond/
   
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
-  - Most likely using CKEditor: https://ckeditor.com/
+     - Most likely using CKEditor: https://ckeditor.com/
   
   5. Add Functionality to Save Lists if User is signed in.
   
@@ -62,23 +62,23 @@ III. OPTIMIZATION:
   
   8. Add Functionality for User to generate a shareable url for a List.
   
-  - Most likely using NPM of Share URL: https://www.npmjs.com/package/share-url
+     - Most likely using NPM of Share URL: https://www.npmjs.com/package/share-url
   
   9. Add Functionality for Comments, so that Users can add Comments to each List, via free-form Text Box.
   
-  - Most likely using CKEditor: https://ckeditor.com/
+     - Most likely using CKEditor: https://ckeditor.com/
   
   10. Add Functionality to Export a List into a CSV file.
   
-  - Most likely using NPM export-to-csv: https://www.npmjs.com/package/export-to-csv
+     - Most likely using NPM export-to-csv: https://www.npmjs.com/package/export-to-csv
   
   11. Add Integration with Google Drive.
   
-  - Most likely using NPM @googleapis/drive: https://www.npmjs.com/package/@googleapis/drive
+     - Most likely using NPM @googleapis/drive: https://www.npmjs.com/package/@googleapis/drive
   
-  - Git Repo: https://github.com/googleapis/google-api-nodejs-client
+     - Git Repo: https://github.com/googleapis/google-api-nodejs-client
   
-  - Documentation: https://googleapis.dev/nodejs/googleapis/latest/drive/classes/Drive.html
+     - Documentation: https://googleapis.dev/nodejs/googleapis/latest/drive/classes/Drive.html
 
 IV. FURTHER INFO:
 
