@@ -52,9 +52,9 @@ III. OPTIMIZATION:
      
      - Or, using Cloudinary (Images/Vids/Audio):
      
-     https://www.npmjs.com/package/cloudinary
+      https://www.npmjs.com/package/cloudinary
      
-     Website: https://cloudinary.com/
+      Website: https://cloudinary.com/
 
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
