@@ -50,15 +50,15 @@ III. OPTIMIZATION:
   
      - Most likely using Filepond: https://pqina.nl/filepond/
      
-     - Or, using Cloudinary (Images/Vids/Audio):
+     - Or, using Cloudinary (Images/Vids/Audio): https://www.npmjs.com/package/cloudinary
      
-        https://www.npmjs.com/package/cloudinary
-     
-        Website: https://cloudinary.com/
+     - Website: https://cloudinary.com/
 
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
      - Most likely using CKEditor: https://ckeditor.com/
+     
+     - Documentation: https://github.com/ckeditor/ckeditor5
   
   5. Add Functionality to Save Lists if User is signed in.
   
@@ -73,6 +73,8 @@ III. OPTIMIZATION:
   9. Add Functionality for Comments, so that Users can add Comments to each List, via free-form Text Box.
   
      - Most likely using CKEditor: https://ckeditor.com/
+     
+     - Documentation: https://github.com/ckeditor/ckeditor5
   
   10. Add Functionality to Export a List into a CSV file.
   
