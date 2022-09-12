@@ -48,13 +48,17 @@ III. OPTIMIZATION:
   
      - Documentation: https://vcalendar.io/
   
-  3. Add Functionality for User to upload Images.
+  3. Add Functionality for User to upload Images/Videos/Audio.
   
      - Most likely using Filepond: https://pqina.nl/filepond/
      
-     - Or, using Cloudinary (Images/Vids/Audio): https://www.npmjs.com/package/cloudinary
+     - Or, using Cloudinary: https://www.npmjs.com/package/cloudinary
      
      - Website: https://cloudinary.com/
+     
+     - Or, using Multer: https://www.npmjs.com/package/multer
+     
+     - Git Repo: https://github.com/expressjs/multer
 
   4. Add Functionality for User to add Notes per Post via free-form Text Box.
   
