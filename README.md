@@ -38,7 +38,9 @@ III. OPTIMIZATION:
   
      - Most likely using PassportJS: https://www.passportjs.org/
   
-     - Add Gmail Integration.
+     - Add Gmail Integration, and further Integration with other Social Media sites.
+     
+     - Git Repo for multiple Integrations: https://github.com/sahat/hackathon-starter/blob/master/config/passport.js
   
   2. Add Functionality to include Date of Purchase and/or Date Uploaded via Calendar Dropdown.
   
