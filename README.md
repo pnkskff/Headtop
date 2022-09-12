@@ -90,11 +90,13 @@ III. OPTIMIZATION:
   
       - Documentation: https://googleapis.dev/nodejs/googleapis/latest/drive/classes/Drive.html
       
-IV: AUDITING TOOLS:
+IV: AUDIT/UPDATE TOOLS:
 
-   1.
-  
-  
+   1. npm-audit: https://docs.npmjs.com/cli/v8/commands/npm-audit
+   
+   2. npm-outdated: https://docs.npmjs.com/cli/v8/commands/npm-outdated
+   
+   3. npm-update: https://docs.npmjs.com/cli/v8/commands/npm-update
 
 V. FURTHER INFO:
 
