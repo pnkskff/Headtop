@@ -1,4 +1,4 @@
-6# Headtop
+# Headtop
 
 I. INTRO:
 
