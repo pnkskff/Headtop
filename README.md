@@ -26,9 +26,11 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with EJS/CSS/JS, and with Node.js:
+  1. Built with EJS/CSS/JS, and with Node.js and Express.js:
   
      https://nodejs.org/en/
+     
+     https://expressjs.com/
   
   2. In the future, may transition to bulding with Bun JS:
   
