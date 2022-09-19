@@ -1,4 +1,4 @@
-# Headtop
+66# Headtop
 
 I. INTRO:
 
@@ -26,16 +26,16 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with EJS Templating Language/CSS file/JS file, along with Node.js Environment and Express.js Framework:
+  1. Built with CSS/JS and EJS Templating Language, along with Node.js Environment and Express.js Framework:
   
      https://nodejs.org/en/
      
-     https://expressjs.com/
+     h6ttps://expressjs.com/
   
   2. In the future, may transition to bulding with Bun JS Environment:
   
      https://bun.sh/
-  66
+  
   3. M.V.C. architecture is not used for this App yet.
   
      - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
