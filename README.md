@@ -30,11 +30,11 @@ II. NOTES:
   
   https://nodejs.org/en/
   
-   a. In the future, may transition to Bun JS:
+  2. In the future, may transition to Bun JS:
   
   https://bun.sh/
   
-  2. M.V.C. architecture is not used for this App yet.
+  3. M.V.C. architecture is not used for this App yet.
   
      - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
 
