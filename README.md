@@ -30,7 +30,7 @@ II. NOTES:
   
   https://nodejs.org/en/
   
-     - In the future, may transition to Bun JS:
+      - In the future, may transition to Bun JS:
   
   https://bun.sh/
   
