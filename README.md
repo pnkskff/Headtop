@@ -26,7 +26,13 @@ I. INTRO:
 
 II. NOTES:
 
-  1. Built with EJS/CSS/JS.
+  1. Built with EJS/CSS/JS, running on Node.js:
+  
+  https://nodejs.org/en/
+  
+     - In the future, may transition to Bun JS:
+  
+  https://bun.sh/
   
   2. M.V.C. architecture is not used for this App yet.
   
