@@ -1,4 +1,4 @@
-66# Headtop
+# Headtop
 
 I. INTRO:
 
@@ -30,7 +30,7 @@ II. NOTES:
   
      https://nodejs.org/en/
      
-     h6ttps://expressjs.com/
+     https://expressjs.com/
   
   2. In the future, may transition to bulding with Bun JS Environment:
   
