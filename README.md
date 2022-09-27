@@ -36,11 +36,12 @@ II. NOTES:
   
      https://bun.sh/
      
-  3. For further Styling/Templating, may transition to building with Bootstrap or Tailwind: 
+  3. For further Styling/Templating, may transition to building with Bootstrap or Tailwind/DaisyUI: 
      
      https://getbootstrap.com/
      
      https://tailwindcss.com/
+     
      https://daisyui.com/
   
   4. M.V.C. architecture is not used for this App yet.
