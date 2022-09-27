@@ -41,6 +41,7 @@ II. NOTES:
      https://getbootstrap.com/
      
      https://tailwindcss.com/
+     https://daisyui.com/
   
   4. M.V.C. architecture is not used for this App yet.
   
