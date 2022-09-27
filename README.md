@@ -35,8 +35,14 @@ II. NOTES:
   2. In the future, may transition to bulding with Bun JS Environment:
   
      https://bun.sh/
+     
+  3. For further Styling/Templating, may transition to building with Bootstrap or Tailwind: 
+     
+     https://getbootstrap.com/
+     
+     https://tailwindcss.com/
   
-  3. M.V.C. architecture is not used for this App yet.
+  4. M.V.C. architecture is not used for this App yet.
   
      - For more info: https://docs.google.com/spreadsheets/d/1zXoYlAUurkx-cZh5hKhAX16l0ibWXopTF6MKmXKOWKI/edit?usp=sharing
 
