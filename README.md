@@ -36,7 +36,9 @@ II. NOTES:
   
      https://bun.sh/
      
-  3. For further Styling/Templating, may transition to building with Bootstrap or Tailwind/DaisyUI: 
+  3. For further Styling/Templating, may transition to building with React, Bootstrap or Tailwind/DaisyUI: 
+     
+     https://www.react.express/
      
      https://getbootstrap.com/
      
