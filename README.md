@@ -38,6 +38,8 @@ II. NOTES:
      
   3. For further Styling/Templating, may transition to building with React, Bootstrap or Tailwind/DaisyUI: 
      
+     https://reactjs.org/
+     
      https://www.react.express/
      
      https://getbootstrap.com/
