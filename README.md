@@ -128,7 +128,7 @@ IV: AUDIT/UPDATE TOOLS:
 
 V. FURTHER INFO:
 
-   1. Readme last updated on: SEPTEMBER 2022
+   1. Readme last updated on: OCTOBER 2022
 
    2. Authors:
 
