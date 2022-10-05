@@ -27,51 +27,6 @@ app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 // app.use(cors())
 
-// API Data - Separate from top-list (Headtop)
-
-const rappers = {
-  'Drake': {
-    'realName' : 'Aubrey Drake Graham',
-    'bestAlbum' : 'Take Care',
-    'worstAlbum' : 'Honestly, Nevermind',
-    'discography' : 'https://en.wikipedia.org/wiki/Drake_(musician)#Discography'
-  },
-  'Eminem': {
-    'realName' : 'Marshall Bruce Mathers III',
-    'bestAlbum' : 'The Marshall Mathers LP',
-    'worstAlbum' : 'Revival',
-    'discography' : 'https://en.wikipedia.org/wiki/Eminem#Discography'
-  },
-  'Kanye West': {
-    'realName' : 'Kanye Omari West',
-    'bestAlbum' : 'My Beautiful Dark Twisted Fantasy',
-    'worstAlbum' : 'Jesus is King',
-    'discography' : 'https://en.wikipedia.org/wiki/Kanye_West#Discography'
-  },
-  'Lil Wayne': {
-    'realName' : 'Dwayne Michael Carter Jr.',
-    'bestAlbum' : 'Tha Carter III',
-    'worstAlbum' : 'I Am Not a Human Being',
-    'discography' : 'https://en.wikipedia.org/wiki/Lil_Wayne#Discography'
-  },
-  'Outkast': {
-    'realName' : 'Antwan Andre Patton and Andre Lauren Benjamin',
-    'bestAlbum' : 'Aquemini',
-    'worstAlbum' : 'Idlewild',
-    'discography' : 'https://en.wikipedia.org/wiki/Outkast#Discography'
-  }
-}
-
-const anonRapper = {
-  'No Name Rapper': {
-    'realName' : 'Name not found',
-    'bestAlbum' : 'On YouTube',
-    'worstAlbum' : 'On Instagram Story',
-    'discography' : 'On Twitter TL'
-  }
-}
-
-
 // CRUD code for top-list and Rappers API
 
 app.listen(process.env.PORT || PORT, ()=>{
