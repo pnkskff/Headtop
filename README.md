@@ -19,6 +19,8 @@ I. INTRO:
           * Railway: https://railway.app/
           
           * Render: https://render.com/
+          
+          * Cyclic: https://www.cyclic.sh/
 
   2. This is a CRUD App that at its most basic, allows a User to:
 
