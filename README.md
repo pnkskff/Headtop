@@ -15,6 +15,10 @@ I. INTRO:
           * Netlify: https://www.netlify.com/
      
           * Vercel: https://vercel.com/
+          
+          * Railway: https://railway.app/
+          
+          * Render: https://render.com/
 
   2. This is a CRUD App that at its most basic, allows a User to:
 
