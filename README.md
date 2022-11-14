@@ -1,7 +1,7 @@
 # Headtop
 
 # MESSAGE: This Repo is now depecated and will no longer receive updates.
-# Please refer to Headtop 1.0 Repo via: https://github.com/pnkskff/Headtop-1.0
+# Please refer instead to Headtop 1.0 Repo via: https://github.com/pnkskff/Headtop-1.0
 
 I. INTRO:
 
