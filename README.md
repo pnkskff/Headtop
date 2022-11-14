@@ -1,5 +1,8 @@
 # Headtop
 
+# MESSAGE: This Repo is now depecated and will no longer receive updates.
+# Please refer to Headtop 1.0 Repo via: https://github.com/pnkskff/Headtop-1.0
+
 I. INTRO:
 
   1. Headtop API url: http://headtop-api.herokuapp.com/
@@ -136,7 +139,7 @@ IV: AUDIT/UPDATE TOOLS:
 
 V. FURTHER INFO:
 
-   1. Readme last updated on: OCTOBER 2022
+   1. Readme last updated on: NOVEMBER 2022
 
    2. Authors:
 
